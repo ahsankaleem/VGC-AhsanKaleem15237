@@ -1,0 +1,27 @@
+Provisional Assignment
+Teacher: John Rowely
+Subject: java Programming
+VGC Project Develop and prepared by Ahsan Kaleem student ID 15237:
+
+Project Name: VGCProgect-AhsanKaleem-15237
+Project Description: In this we were given a task to develop a solution for a college name “VGC (Virtual Global College ) “. Which can performs operations to via Database and keeps records of important information. The ready software interface helps to Manage the Staff , Students and Administrators in a quick and efficient way. A user of this management system can add  and Modify the almost everything what discussed in the criteria. The best part of this System are that it is linked with the a Database and it is a user friendly. It’s tested by me on each step and time after time so that I can confirm you that you won’t have any error in this software. Another interesting part of this software is that, you can decide that who can see or access things through this software. An administrator has the highest Privilege. If you are provided with relative privilege. I have used many tools while developing this project but the main tools are mentioned below:
+•	Java NetBeans IDE
+•	Microsoft Notpad.
+•	Microsoft Excel.
+•	Browser
+ Criteria Followed:
+As per the instructions the following rules have been followed by me. 
+Students Privilege: 
+In this project Students have less privilege, they can only see the less precise information which is related to them.
+Teacher Privilege:
+Teachers have privileges , where they can add students and their attendance and see the students information as well.
+Admin Privilege:
+As like other, in this project Administrator has a highest privilege. He/She has almost everything available on database included the username passwords of each group. They can add Student, Teacher, Courses as well as modify them and do several other things on it.
+Plan & Explanation:
+My plan was to make a light project with less numbers of interfaces which works with binary syntax as I discussed with you in the class . However, I had achieved the task and programmed the project in the same way. Every time, when I was 100% confident I was hurt by my code. There wasn’t any error but values were manipulated and auto prediction of net beans changed the scene. At a very last moment I quit my plan by considering Mr. John’s instructions that he need a project with error-less and fully functionally. So that, I diverted my focus on that and develop a project which is good to me as well as hopefully for you. However, I can still do much better, even, I applied tricks on almost every class to find and found that they are working perfect on them.  I am very sorry that I am submitting this assignment a day later, as I was seriously wanted to develop an amazing  project to show you.
+
+Conclude:
+I will must say that I have really learned  a lot in this semester, in first two week I was able to write a program to store information using the file system and now this program which has changed my point of view and gave me many ideas. 
+
+
+
